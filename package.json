@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Yushkevich-A-A/ESM/issues"
   },
-  "homepage": "https://github.com/Yushkevich-A-A/ESM#readme"
+  "homepage": "https://github.com/Yushkevich-A-A/ESM#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
 }
